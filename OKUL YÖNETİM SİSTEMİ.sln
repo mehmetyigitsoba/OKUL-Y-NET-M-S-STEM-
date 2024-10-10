@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OKUL YÖNETİM SİSTEMİ", "OKUL YÖNETİM SİSTEMİ\OKUL YÖNETİM SİSTEMİ.csproj", "{420D21CF-46F7-4CF3-9718-E4D245B63593}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{420D21CF-46F7-4CF3-9718-E4D245B63593}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{420D21CF-46F7-4CF3-9718-E4D245B63593}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{420D21CF-46F7-4CF3-9718-E4D245B63593}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{420D21CF-46F7-4CF3-9718-E4D245B63593}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FC29F4B-5223-4877-9399-21C5B0F75E6A}
+	EndGlobalSection
+EndGlobal
